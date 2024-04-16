@@ -1,0 +1,5 @@
+dataset_zips/
+processed_stanford_dogs/
+stanford_dogs/
+.venv/
+.DS_Store
