@@ -1,6 +1,6 @@
-dataset_zips/
 processed_stanford_dogs/
 stanford_dogs/
 .venv/
 archive.zip
 .DS_Store
+old_models/
