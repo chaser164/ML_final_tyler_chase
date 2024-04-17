@@ -14,6 +14,14 @@ Next, create a python virtual environment from the `requirements.txt` folder lik
 
 Now, you should be able to run all of the `.ipynb`'s chunks.
 
+## TODO
+- optimize hyperparameters further
+- consider: is transfer learning method the best option?
+- more documentation, consider what else to include in MD sections of ipynb
+- ensure portable setup, make this as plug-and-play as possible
+- Attribute Kaggle sources properly (see Kaggle website specifying who must be cited)
+- consider: different process for activating python virtual environment in windows? Is that something we need to explain here?
+
 ## Helpful Sources
 
 Pytorch transfer learning approach (quite helpful):
