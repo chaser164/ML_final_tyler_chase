@@ -8,7 +8,7 @@ First, download the `archive.zip` file from (here)[https://www.kaggle.com/datase
 
 Next, create a python virtual environment from the `requirements.txt` folder like so:
 
-1. From the directory containing the `.ipynb` file, call `python -m venv .venv
+1. From the directory containing the `.ipynb` file, call `python -m venv .venv`
 2. Call `source .venv/bin/activate`
 3. Call `pip install -r requirements.txt`
 
@@ -17,7 +17,7 @@ Now, you should be able to run all of the `.ipynb`'s chunks.
 ## TODO
 - write / expand introduction at the top
 - optimize hyperparameters further?
-- consider: is transfer learning method the best option?
+- consider: is transfer learning method the best option? & if not, let's turn to the imagenet repository
 - more documentation, consider what else to include in MD sections of ipynb
 - ensure portable setup, make this as plug-and-play as possible
 - Attribute Kaggle sources properly (see Kaggle website specifying who must be cited)
