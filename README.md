@@ -21,6 +21,7 @@ Now, you should be able to run all of the `.ipynb`'s chunks.
 - ensure portable setup, make this as plug-and-play as possible
 - Attribute Kaggle sources properly (see Kaggle website specifying who must be cited)
 - consider: different process for activating python virtual environment in windows? Is that something we need to explain here?
+- consider: why is that one sheepdog image not able to be processed?
 
 ## Helpful Sources
 
