@@ -29,6 +29,7 @@ Now, you should be able to run all of the `.ipynb`'s chunks.
 
 Pytorch transfer learning approach (quite helpful):
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+https://pytorch.org/hub/pytorch_vision_resnet/
 
 Microsoft CNN image classification learning resource:
 https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-model
