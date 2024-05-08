@@ -18,7 +18,7 @@ Now, you should be able to run all of the `.ipynb` files's chunks. If prompted t
 
 Note: you likely won't run into this, but we found that installing the `ipykernel` packages only works when pip3 is aliased to pip.
 
-## Helpful Sources for this project:
+## Helpful Resources for this project:
 
 Pytorch transfer learning approach (quite helpful):
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
